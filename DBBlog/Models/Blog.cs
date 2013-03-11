@@ -15,7 +15,7 @@ namespace DBBlog.Models
     public partial class Blog
     {
         /// <summary>
-        /// A comment
+        /// A comment And another
         /// </summary>
         public Blog()
         {
