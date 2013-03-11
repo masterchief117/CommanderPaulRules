@@ -14,6 +14,9 @@ namespace DBBlog.Models
     
     public partial class Blog
     {
+        /// <summary>
+        /// A comment
+        /// </summary>
         public Blog()
         {
             this.Posts = new HashSet<Post>();
